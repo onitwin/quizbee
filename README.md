@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##What I learned!
+
+Great tutorial for explianing some of the elements of React I take for granted- all src files where erased and built from ground up.
+Incorporated both components and functional components
+
 ## Available Scripts
 
 In the project directory, you can run:
